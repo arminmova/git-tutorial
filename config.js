@@ -1,2 +1,2 @@
 console.log('configer.js');
-console.log('version1er');
+console.log('version3');
